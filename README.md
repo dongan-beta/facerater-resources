@@ -2,7 +2,7 @@
 
 A practical checklist for taking a measurement photo, reading an illustrated face report, and comparing styling ideas without confusing a photo score with a verdict on appearance.
 
-Maintained by the **FaceRater product team**. This is product documentation, not an independent review. It describes the public product as of 23 October 2026.
+Maintained by the **FaceRater product team**. This is product documentation, not an independent review. It describes the public product as of 29 October 2026.
 
 [Open FaceRater](https://face-rater.com/) · [Inspect the complete sample report](https://face-rater.com/report/sample) · [Read the measurement method](https://face-rater.com/methodology)
 
@@ -33,17 +33,21 @@ A useful reading starts with the diagram and the underlying spans. Then read the
 
 ## Separate the free scan from the optional report
 
-The first result is free: selected open readings, a photo-geometry score and a share card. Free image processing runs in the browser. Derived results may be retained for result-link and report functions; consult the product's data controls for the complete policy.
+The first result is free: selected open readings, a photo-geometry score and a share card. Free image processing runs in the browser. Saving a report or continuing to checkout can keep a prepared photo and measurements in this browser. Signing in alone does not upload a scan. An authenticated cloud copy and AI hairstyle processing require separate choices; consult the live site's [data controls](https://face-rater.com/privacy). Personal reports do not have a public share URL; the share card is a separate export.
 
 The optional **Face Report costs $17.49 once**, with no subscription. It includes:
 
 - **26 readings across five illustrated facial-region chapters**;
 - diagrams on the person's own photograph, explanations and practical styling suggestions;
-- a personal plan and two-photo comparison;
+- a personal plan and a temporary two-photo comparison in the web report;
 - **six personal AI hairstyle concepts**;
 - a manual color studio and a downloadable PDF.
 
-The public sample is the quickest way to inspect the report format before purchasing. Product availability and the current offer are set by the live site.
+The second comparison photo is temporary and is not included in the PDF. The public sample is the quickest way to inspect the report format before purchasing. Product availability and the current offer are set by the live site.
+
+## Inspect a specific measurement
+
+Read [Reading facial proportions from a photo: follow the endpoints](READING-FACIAL-PROPORTIONS.md) for a worked ratio example, the eight open proportion readings, front-view jawline limits and a checklist for choosing a useful next comparison.
 
 ## Read a chapter in four steps
 
